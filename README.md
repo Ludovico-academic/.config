@@ -232,7 +232,7 @@ cd ~/.config
 ls -a
 git init
 ls -a
-git remote add origin YOUR-OR-MY-ADDRESS
+git remote add origin https://github.com/Ludovico-academic/.config
 git remote -v
 git pull origin master
 ls -a
